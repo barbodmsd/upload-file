@@ -16,7 +16,7 @@ export default function App() {
     <>
       <ImageUploader
         setImagesName={setImagesName}
-        serverImages={serverImages}
+        // serverImages={serverImages}
       />
     </>
   );
