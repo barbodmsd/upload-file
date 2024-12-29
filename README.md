@@ -1,8 +1,12 @@
-# React + Vite
+# Upload File
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### description :
 
-Currently, two official plugins are available:
+- This is a custom upload file with `Material Ui`
+- With ability to show preview images
+- Drag and Drop images
+- Upload multiple images at once
+- Show progress bar
+- Show success message
+- Remove images before upload
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
