@@ -1,12 +1,6 @@
 import { useState } from "react";
 import ImageUploader from "./UploadFile";
 
-const serverImages = [
-  "https://api.mealland.ir/statics/tag_icon/ghahveDami.svg",
-  "https://api.mealland.ir/statics/tag_icon/ghahveDami.svg",
-  "https://api.mealland.ir/statics/tag_icon/ghahveDami.svg",
-];
-
 export default function App() {
   const [images, setImages] = useState([]);
 
